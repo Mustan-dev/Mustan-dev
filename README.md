@@ -36,6 +36,11 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mustan-dev&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 📂 Featured Projects
 
 | Project | Description | Tech |
