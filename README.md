@@ -2,7 +2,9 @@
 
 ![Profile Banner](https://img.shields.io/badge/Status-Active-brightgreen)  
 [![GitHub followers](https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social)](https://github.com/Mustan-dev)
-![Description of GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdtdnhsZmt3ZWZna3BlNW8zZjNrOGEyczFnMHFpMmE3dm9kdDRidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)
+<div align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdtdnhsZmt3ZWZna3BlNW8zZjNrOGEyczFnMHFpMmE3dm9kdDRidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="GIF" width="150"/>
+</div>
 
 ![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
