@@ -2,6 +2,7 @@
 ![Profile Banner](https://img.shields.io/badge/Status-Active-brightgreen)  
 
 ![Profile View](https://komarev.com/ghpvc/?username=Mustan-dev)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mustan-dev.Mustan-dev)  
 
 [![GitHub followers](https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social)](https://github.com/Mustan-dev)
 
