@@ -52,12 +52,6 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 | **PC Stand & Home Workouts Tracker** | DIY project for ergonomic PC setup and automated workout scheduling. | Python |
 
 ---
-### 🔝 Top Contributed Repo
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Mustan-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
----
 
 ## 📫 How to Reach Me
 
