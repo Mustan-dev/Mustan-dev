@@ -111,6 +111,5 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
 ![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-![](https://komarev.com/ghpvc/?username=Mustan-dev)
 
 
