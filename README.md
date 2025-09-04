@@ -113,22 +113,4 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
 ![](https://komarev.com/ghpvc/?username=Mustan-dev)
 
----
-
-![](https://vbr.nathanchung.dev/visitorbadge?repo=Mustan-dev)
-
----
-
-![](https://hitscounter.dev/Mustan-dev)
-
----
-
-![](https://hits.donaldzou.dev/Mustan-dev)
-
----
-![](https://visitor-badge.glitch.me/badge?page_id=Mustan-dev)
-
----
-
-
 
