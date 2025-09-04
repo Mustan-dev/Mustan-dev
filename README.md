@@ -31,8 +31,8 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
 ## 📈 GitHub Stats
 
-![MustanAliev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustanAliev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustanAliev&layout=compact&theme=radical)
+![MustanAliev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustan-dev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustan-dev&layout=compact&theme=radical)
 
 ---
 
