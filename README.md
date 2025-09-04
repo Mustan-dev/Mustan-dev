@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Mustan Aliev
+# Hi there 👋, I'm Mustan 
 
 ![Profile Banner](https://img.shields.io/badge/Status-Active-brightgreen)  
-[![GitHub followers](https://img.shields.io/github/followers/MustanAliev?label=Follow&style=social)](https://github.com/MustanAliev)
+[![GitHub followers](https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social)](https://github.com/Mustan-dev)
 
 ---
 
