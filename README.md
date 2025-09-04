@@ -1,12 +1,11 @@
 # Hi there 👋, I'm Mustan <img src="https://media.giphy.com/media/Kg9JwOFEyoK75CzQSK/giphy.gif" alt="Twitter Verified Badge" width="50"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mustan-dev.Mustan-dev" alt="Visitor Count" />
-  <a href="https://github.com/Mustan-dev">
-    <img src="https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-</p>
+![Profile Banner](https://img.shields.io/badge/Status-Active-brightgreen)  
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mustan-dev.Mustan-dev)  
+
+[![GitHub followers](https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social)](https://github.com/Mustan-dev)
+
 
 
 <p align="center">
