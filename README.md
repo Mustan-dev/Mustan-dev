@@ -3,7 +3,7 @@
 ![Profile Banner](https://img.shields.io/badge/Status-Active-brightgreen)  
 [![GitHub followers](https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social)](https://github.com/Mustan-dev)
 
----
+![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 👨‍💻 About Me
 
