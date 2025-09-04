@@ -74,9 +74,8 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
 ## 📫 How to Reach Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustan%20Aliev-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustan-aliev-774732382/)
-
-- [![Email](https://img.shields.io/badge/Email-mustanali243@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustan.aliev@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustan%20Aliev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustan-aliev-774732382/)
+- [![Email](https://img.shields.io/badge/Email-mustan1999@icloud.com-FA5C5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustan1999@icloud.com)
 
   
 
