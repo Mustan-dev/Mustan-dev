@@ -16,7 +16,7 @@
 I am a passionate **Software Engineering and Computing student** with a strong focus on **data structures, algorithms, Big Data, and backend development**.  
 I enjoy building **efficient, scalable applications** and **clean, professional code**. My projects span Python, Java, database management, and network simulation.
 
-- 🎓 Student at [Your University] – BSc (Hons) Computing & BEng (Hons) Software Engineering  
+- 🎓 Student at The University of Bolton – BSc (Hons) Computing & BEng (Hons) Software Engineering  
 - 💻 Experienced in: **Python, Java, SQL, C#, NoSQL, Data Analysis**  
 - 🌐 Exploring **Cloud Platforms (GCP, AWS)** and **CI/CD pipelines**  
 - ⚡ Passionate about **algorithm optimization, system design, and performance tuning**
