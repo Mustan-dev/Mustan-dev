@@ -53,7 +53,8 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mustan-dev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Mustan-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 ---
