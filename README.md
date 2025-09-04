@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Mustan 
+# Hi there 👋, I'm Mustan ![Twitter Verified Badge](https://media.giphy.com/media/Kg9JwOFEyoK75CzQSK/giphy.gif)
+
 
 ![Profile Banner](https://img.shields.io/badge/Status-Active-brightgreen)  
 [![GitHub followers](https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social)](https://github.com/Mustan-dev)
