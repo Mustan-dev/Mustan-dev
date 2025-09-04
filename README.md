@@ -18,14 +18,14 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 ---
 
 ## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-17-red?logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-8.0-blue?logo=c-sharp&logoColor=white)  
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white)  
+![Cisco Packet Tracer](https://img.shields.io/badge/Simulator-Cisco_Packet_Tracer-blue?logo=cisco&logoColor=white)  
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)  
-![Java](https://img.shields.io/badge/Java-17-red)  
-![C#](https://img.shields.io/badge/C%23-8.0-blue)  
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)  
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)  
-![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)  
-![Cisco Packet Tracer](https://img.shields.io/badge/Simulator-Cisco_Packet_Tracer-blue)  
 
 ---
 
