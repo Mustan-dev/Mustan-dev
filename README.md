@@ -27,7 +27,6 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdtdnhzZmt3ZWZna3BlNW8zZjNrOGEyczFnMHFpMmE3dm9kdDRidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UmWpVKOvNEv6CHVtl7/giphy.gif" alt="Pizza Ninjas Hacker GIF" width="250"/>
 </p>
 
-
 ### Languages & Syntax
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
