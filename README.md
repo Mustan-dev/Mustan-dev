@@ -3,6 +3,8 @@
 ![Profile Banner](https://img.shields.io/badge/Status-Active-brightgreen)  
 [![GitHub followers](https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social)](https://github.com/Mustan-dev)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mustan-aliev-774732382" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/mustan-aliev-774732382?trk=profile-badge">Mustan Aliev</a></div>
+              
 
 
 ---
