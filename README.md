@@ -3,11 +3,6 @@
 ![Profile Banner](https://img.shields.io/badge/Status-Active-brightgreen)  
 [![GitHub followers](https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social)](https://github.com/Mustan-dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustan%20Aliev-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustan-aliev-774732382/)
-
-              
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -79,7 +74,7 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
 ## 📫 How to Reach Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mustan-aliev)  
+- 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustan%20Aliev-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustan-aliev-774732382/)
 - 📧 Email: mustan.aliev@example.com  
 - 🐦 [Twitter](https://twitter.com/MustanAliev)  
 
