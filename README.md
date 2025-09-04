@@ -24,7 +24,7 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
 ## 🛠️ Tech Stack
 
-<p align="right">
+<p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdtdnhzZmt3ZWZna3BlNW8zZjNrOGEyczFnMHFpMmE3dm9kdDRidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UmWpVKOvNEv6CHVtl7/giphy.gif" alt="Pizza Ninjas Hacker GIF" width="250"/>
 </p>
 
