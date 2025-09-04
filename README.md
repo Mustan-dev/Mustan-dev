@@ -3,8 +3,9 @@
 
 
 ![Profile Banner](https://img.shields.io/badge/Status-Active-brightgreen)  
-[![GitHub followers](https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social)](https://github.com/Mustan-dev)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mustan-dev.Mustan-dev)
+[![GitHub followers](https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social)](https://github.com/Mustan-dev)
+
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdtdnhsZmt3ZWZna3BlNW8zZjNrOGEyczFnMHFpMmE3dm9kdDRidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="GIF" width="200"/>
