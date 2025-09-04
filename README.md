@@ -74,7 +74,8 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
 ## 📫 How to Reach Me
 
-- 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustan%20Aliev-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustan-aliev-774732382/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustan%20Aliev-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustan-aliev-774732382/)
+
 - 📧 Email: mustan.aliev@example.com  
 - 🐦 [Twitter](https://twitter.com/MustanAliev)  
 
