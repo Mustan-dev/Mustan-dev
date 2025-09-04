@@ -5,7 +5,8 @@
 
 ![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif About Me
+## ## [Here] About me <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="30px">
+
 
 I am a passionate **Software Engineering and Computing student** with a strong focus on **data structures, algorithms, Big Data, and backend development**.  
 I enjoy building **efficient, scalable applications** and **clean, professional code**. My projects span Python, Java, database management, and network simulation.
