@@ -15,7 +15,8 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 - 🌐 Exploring **Cloud Platforms (GCP, AWS)** and **CI/CD pipelines**  
 - ⚡ Passionate about **algorithm optimization, system design, and performance tuning**
 
----
+![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +47,8 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
 
 
----
+![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 ## 📈 GitHub Stats
 
@@ -55,12 +57,14 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustan-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
----
+![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mustan-dev&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
----
+![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 ## 📂 Featured Projects
 
@@ -70,7 +74,8 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 | **Java Data Structures & Algorithms Portfolio** | Implementation of stack, linked lists, binary search trees, adjacency matrix, HashMap, ArrayList, with complexity analysis. | Java |
 | **PC Stand & Home Workouts Tracker** | DIY project for ergonomic PC setup and automated workout scheduling. | Python |
 
----
+![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 ## 📫 How to Reach Me
 
@@ -79,7 +84,8 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
   
 
----
+![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 ## ⚡ Fun Facts
 
@@ -87,8 +93,10 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 - 🎮 Gaming hobbyist – love strategy and simulation games  
 - 🌍 Exploring cloud computing and network simulations  
 
----
+![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
+![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
