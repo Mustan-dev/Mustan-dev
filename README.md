@@ -6,7 +6,7 @@
 ![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="30px"> About me 
-
+https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966
 
 I am a passionate **Software Engineering and Computing student** with a strong focus on **data structures, algorithms, Big Data, and backend development**.  
 I enjoy building **efficient, scalable applications** and **clean, professional code**. My projects span Python, Java, database management, and network simulation.
