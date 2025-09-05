@@ -1,4 +1,6 @@
-![A descriptive alt text]https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="neon line">
+</p>
 
 # Hi there 👋, I'm Mustan <img src="https://media.giphy.com/media/Kg9JwOFEyoK75CzQSK/giphy.gif" alt="Twitter Verified Badge" width="50"/>
 ![Profile Banner](https://img.shields.io/badge/Status-Active-brightgreen)  
