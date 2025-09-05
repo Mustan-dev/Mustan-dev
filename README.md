@@ -65,7 +65,7 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 ![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
-## 📈 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Mustan-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mustan-dev&theme=transparent&hide_border=false)<br/>
