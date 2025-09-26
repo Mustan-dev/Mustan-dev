@@ -5,7 +5,7 @@
 # Hi there 👋, I'm Mustan <img src="https://media.giphy.com/media/Kg9JwOFEyoK75CzQSK/giphy.gif" alt="Twitter Verified Badge" width="50"/>
 ![Profile Banner](https://img.shields.io/badge/Status-Active-brightgreen)  
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mustan-dev.Mustan-dev)  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mustan-dev)  
 
 [![GitHub followers](https://img.shields.io/github/followers/Mustan-dev?label=Follow&style=social)](https://github.com/Mustan-dev)
 
