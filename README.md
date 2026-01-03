@@ -118,6 +118,10 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 ![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <p align="center">
+  <img src="assets/mustan-dev1.png" width="180" alt="Mustan Aliev" style="border-radius:50%;" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="SVG Divider" width="100%" />
 </p>
 
