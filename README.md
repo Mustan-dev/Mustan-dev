@@ -118,7 +118,7 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 ![A descriptive alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <p align="center">
-  <img src="assets/mustan-dev1.png"
+  <img src="assets/mustan-dev.png"
        width="500"
        alt="Mustan Aliev"
        style="border-radius:50%;" />
