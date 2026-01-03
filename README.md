@@ -119,7 +119,7 @@ I enjoy building **efficient, scalable applications** and **clean, professional 
 
 <p align="center">
   <img src="assets/mustan-dev1.png"
-       width="400"
+       width="500"
        alt="Mustan Aliev"
        style="border-radius:50%;" />
 </p>
